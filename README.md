@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI, Pytorch, Gin Web Framework
 - 📫 How to reach me: [hiepnguyen0014@gmail.com](mailto:hiepnguyen0014@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love sports and animals (dogs, cats) and have a strong interest in the environment.
+- ⚡ Fun fact: I love sports and playing with animals (dogs, cats).
 <!-- * ✉️  You can contact me at [hiepnguyen0014@gmail.com](mailto:hiepnguyen0014@gmail.com)
 * 🚀  I'm currently working on [implementing MPC calculation on microcomputer and PoC on 1-10th Autonomous Vehicle.](http://d)
 * 🧠  I'm learning Gin Web Framework, AI, Pytorch.
