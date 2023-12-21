@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hiep
 ============================================================================================================================ -->
 - 🔭 I’m currently working on implementing MPC calculation on microcomputer and PoC on 1-10th Autonomous Vehicle.
-- 🌱 I’m currently learning AI, Pytorch, Gin Web Framework
+- 🌱 I’m currently learning ML, Pytorch
 - 📫 How to reach me: [hiepnguyen0014@gmail.com](mailto:hiepnguyen0014@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love sports and playing with animals (dogs, cats).
